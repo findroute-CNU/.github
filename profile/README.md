@@ -2,4 +2,5 @@
 
 
 ## ERD
-<img width="1424" height="569" alt="스크린샷 2026-04-05 오후 11 40 42" src="https://github.com/user-attachments/assets/4714d624-0c21-401a-8a47-3a7d8e894f3f" />
+<img width="950" height="433" alt="스크린샷 2026-04-07 오후 8 06 13" src="https://github.com/user-attachments/assets/296cda12-f887-4ee6-a7c2-7dfb5a6b6fa3" />
+
